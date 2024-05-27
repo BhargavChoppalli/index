@@ -1,0 +1,25 @@
+
+
+.child{
+    
+    background-color: yellow;
+    height: 100px;
+    padding: 30px 30px;
+
+}
+.child ul{
+    float: right;
+    display: inline-flex;
+    list-style-type: none;
+}
+ul li{
+    padding-right: 30px;
+}
+
+
+.child3{
+    background-color: rgb(3, 2, 1);
+    border: 2px solid;
+}
+
+
